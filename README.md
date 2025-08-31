@@ -210,9 +210,6 @@ We welcome contributions to enhance the Voice Command Processing system! To cont
 
 Please ensure your code follows PEP 8 style guidelines and includes relevant tests in the `tests/` directory.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
