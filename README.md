@@ -1,6 +1,6 @@
 # Voice Command Processing
 
-![Project Logo](https://via.placeholder.com/150?text=Voice+Command)
+![Voice Command Processing Logo](speech-recognition_cleanup.png)
 
 **Voice Command Processing** is an advanced AI-driven system that combines real-time audio processing, speech-to-text transcription, and natural language processing (NLP) to enable seamless voice command execution. This project empowers users to interact with their devices using voice commands, leveraging cutting-edge audio analysis and AI technologies to process and respond to spoken instructions with high accuracy and efficiency.
 
