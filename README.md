@@ -164,30 +164,7 @@ Install all dependencies using:
 pip install -r requirements.txt
 ```
 
-## Configuration
 
-Customize the system by editing `config.py` or passing command-line arguments:
-
-- **Wake Word**: Change the default wake word ("nova") in `config.py`:
-  ```python
-  WAKE_WORD = "nova"
-  ```
-
-- **API Keys**: For external NLP services, update the API key in `config.py`:
-  ```python
-  OPENAI_API_KEY = "sk-your-api-key"
-  ```
-
-- **Audio Settings**: Adjust sample rate, chunk size, or other audio parameters in `config.py`:
-  ```python
-  SAMPLE_RATE = 44100
-  CHUNK_SIZE = 1024
-  ```
-
-- **Visualization**: Enable or disable audio visualization:
-  ```python
-  ENABLE_VISUALIZATION = True
-  ```
 
 
 
