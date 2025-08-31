@@ -189,26 +189,7 @@ Customize the system by editing `config.py` or passing command-line arguments:
   ENABLE_VISUALIZATION = True
   ```
 
-## Contributing
 
-We welcome contributions to enhance the Voice Command Processing system! To contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Make your changes and commit them:
-   ```bash
-   git commit -m "Add your feature description"
-   ```
-4. Push to your fork:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Open a pull request with a detailed description of your changes.
-
-Please ensure your code follows PEP 8 style guidelines and includes relevant tests in the `tests/` directory.
 
 
 ## Acknowledgements
