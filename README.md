@@ -86,18 +86,6 @@ Follow these steps to set up the Voice Command Processing system on your local m
    pipwin install pyaudio
    ```
 
-4. **Configure API Keys** (if applicable):
-   - If using an external NLP service (e.g., OpenAI), obtain an API key and update the configuration in `config.py` or the main script:
-     ```python
-     openai_client = OpenAI(api_key="sk-your-api-key")
-     ```
-
-5. **Verify Installation**:
-   Run the main script to ensure all dependencies are correctly installed:
-   ```bash
-   python main.py
-   ```
-
 ## Usage
 
 1. **Run the Application**:
